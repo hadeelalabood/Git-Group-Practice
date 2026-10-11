@@ -1,6 +1,12 @@
-# ✨ Welcome to Git Group Practice! ✨
+# ✨ T A H A N I ’ S   C O R N E R ✨
+
+```text
++------------------------+
+|      LEARN & GROW      |
+|        TOGETHER        |
++------------------------+
+```
 
 ## 👋 Hello, I’m Tahani!
 
-🌱 I’m happy to learn Git and GitHub with the group.
-🤝 Looking forward to learning together!
+🌱 Learning Git & GitHub, one step at a time.
