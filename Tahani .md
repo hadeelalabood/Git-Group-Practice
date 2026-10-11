@@ -1,2 +1,3 @@
-# Hello, I’m Tahani! 👋
-Happy to join the GitHub group practice.
+# 👋 Hello, I’m Tahani!
+
+🌱 I’m happy to learn Git and GitHub with the group. ✨
