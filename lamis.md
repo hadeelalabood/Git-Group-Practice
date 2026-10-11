@@ -1,3 +1,5 @@
-# Lamis's Practice
+🌷 Hello, I’m Lamis!
 
-This is my first contribution to the project.
+✨ Learning, growing, and exploring new things with Git & GitHub.
+
+🚀 Small steps, big dreams!
